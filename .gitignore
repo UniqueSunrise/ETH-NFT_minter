@@ -1,0 +1,83 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# PyCharm
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Environment variables files
+.env
+.env.*
+
+# Sensitive keys and secrets files
+private_keys.txt
+proxies.txt
+config.py
+secrets.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build / IDE temp files
+*.orig
+*.swp
+*.swo
+*~
+
+# macOS specific
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail cache files
+ehthumbs.db
+Desktop.ini
+
+# Others to consider ignoring
+*.pot
+*.pyc
+*.pyo
+
