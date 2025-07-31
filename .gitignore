@@ -55,7 +55,6 @@ coverage.xml
 # Sensitive keys and secrets files
 private_keys.txt
 proxies.txt
-config.py
 secrets.json
 
 # System files
